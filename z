@@ -1,0 +1,6 @@
+#include <stdio.h>
+ int main() {
+ 	short z=0xFFFF;
+ 	printf("%d",z);
+ 	return 0;
+ } 
